@@ -1,1 +1,2 @@
-
+To Do App using Kotlin
+The to-do mobile app is designed to help users stay organized and productive. Its sorting tool allows tasks to be organized by date, time, or title, making it easy to prioritize and manage to-do lists. Users have control over tasks and can update details, deadlines, or attach files as needed. The app also includes a delete option for marking off completed tasks or removing unnecessary ones, keeping the workspace focused and clutter-free. Overall, the app is a powerful organizational tool for anyone looking to stay on top of their tasks and manage their time effectively.
